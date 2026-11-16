@@ -1,0 +1,104 @@
+position,team,first_name,surname,games,quarters,minutes,goals,attempts,acc_pct,one_pt_goals,super_shot_goals,goal_assists,feeds,intercepts,deflections,gains,rebounds,penalties
+GS,West Coast Fever,Romelda,Aiken-George,12,46,649,502,591,84.9,496,6,10,34,0,2,0,66,32
+GS,Queensland Firebirds,Mary,Cholhok,11,46,615,448,562,79.7,441,7,7,25,0,3,0,73,28
+GS,Melbourne Vixens,Sophie,Garbin,11,48,678,412,461,89.4,410,2,82,126,1,2,2,28,46
+GS,GIANTS Netball,Matisse,Letherbarrow,11,45,578,270,333,81.1,225,45,36,60,1,1,1,16,22
+GS,Melbourne Mavericks,Shimona,Nelson,12,46,611,448,484,92.6,445,3,9,12,0,0,0,25,20
+GS,NSW Swifts,Grace,Nweke,12,50,751,558,615,90.7,553,5,28,49,0,3,1,60,27
+GS,Melbourne Mavericks,Uneeq,Palavi,12,19,165,74,91,81.3,53,21,13,27,0,0,0,2,6
+GS,Sunshine Coast Lightning,Donnell,Wallam,12,44,647,583,696,83.8,562,21,17,39,0,10,2,62,44
+GS,Tarntanya Karntu,Elmere,van der Berg,11,50,670,633,698,90.7,614,19,6,18,1,0,1,27,33
+GS,Melbourne Vixens,Lily,Graham,12,10,57,13,19,68.4,7,6,17,23,0,0,0,1,3
+GS,Queensland Firebirds,Elsa Sif,Sandholt,6,10,101,60,68,88.2,52,8,0,5,0,0,0,2,0
+GS,GIANTS Netball,Lucy,Austin,5,8,92,48,68,70.6,47,1,3,8,0,0,0,6,7
+GS,West Coast Fever,Sloan,Burton,4,2,10,1,3,33.3,0,1,1,1,0,1,1,1,0
+GS,GIANTS Netball,Eva,Carneiro,1,2,21,0,0,0.0,0,0,0,0,0,0,0,0,3
+GA,Melbourne Vixens,Kiera,Austin,12,52,728,229,290,79.0,183,46,142,213,3,21,8,15,50
+GA,Melbourne Mavericks,Reilley,Batcheldor,11,38,523,91,131,69.5,78,13,121,149,4,9,7,9,20
+GA,GIANTS Netball,Sophie,Dwyer,12,46,684,238,273,87.2,195,43,134,166,1,10,5,6,41
+GA,Tarntanya Karntu,Lauren,Frew,12,34,397,41,51,80.4,41,0,98,142,8,3,9,2,23
+GA,West Coast Fever,Sasha,Glasgow,11,43,605,116,173,67.1,81,35,155,203,3,8,5,12,28
+GA,Tarntanya Karntu,Kayla,Graham,12,12,136,28,37,75.7,27,1,25,37,1,3,1,4,7
+GA,Sunshine Coast Lightning,Cara,Koenen,11,46,649,125,149,83.9,121,4,205,245,5,6,6,17,41
+GA,Melbourne Mavericks,Sacha,McDonald,12,24,315,28,36,77.8,27,1,59,99,0,3,0,2,30
+GA,Queensland Firebirds,Te Paea,Selby-Rickit,11,45,684,145,192,75.5,121,24,173,230,3,10,7,10,29
+GA,NSW Swifts,Grace,Whyte,12,43,654,77,103,74.8,49,28,279,370,5,4,6,0,57
+GA,Queensland Firebirds,Emily,Moore,10,19,131,22,38,57.9,16,6,23,40,0,0,0,2,3
+GA,NSW Swifts,Nicola,Barge,9,5,28,6,9,66.7,6,0,2,4,1,0,1,0,0
+GA,Sunshine Coast Lightning,Gabrielle,Sinclair,9,8,71,13,17,76.5,8,5,17,18,0,0,0,0,1
+GA,West Coast Fever,Olivia,Wilkinson,8,12,114,28,44,63.6,22,6,18,50,0,1,0,5,20
+GA,NSW Swifts,Helen,Housby,4,17,224,39,61,63.9,28,11,47,70,1,3,1,3,8
+GA,Sunshine Coast Lightning,Tippah,Dwan,2,2,10,0,2,0.0,0,0,0,0,0,0,0,0,6
+GA,West Coast Fever,Jessica,Repacholi,1,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+WA,Queensland Firebirds,Lara,Dunkley,12,40,586,0,0,0.0,0,0,147,318,3,11,6,0,54
+WA,NSW Swifts,Tayla,Fraser,12,43,535,0,0,0.0,0,0,110,196,3,7,5,0,42
+WA,Melbourne Mavericks,Maddie,Hay,12,48,594,0,0,0.0,0,0,178,304,2,9,7,0,24
+WA,Tarntanya Karntu,Georgie,Horjus,12,49,728,57,66,86.4,52,5,262,352,0,2,1,2,13
+WA,Sunshine Coast Lightning,Leesa,Mi Mi,12,42,566,0,0,0.0,0,0,125,243,1,9,7,0,35
+WA,GIANTS Netball,Whitney,Souness,12,41,598,0,0,0.0,0,0,99,220,2,10,6,0,51
+WA,Melbourne Vixens,Zara,Walters,11,38,457,0,0,0.0,0,0,94,170,6,3,8,0,60
+WA,GIANTS Netball,Hope,White,12,29,325,0,0,0.0,0,0,78,182,1,4,4,0,48
+WA,Tarntanya Karntu,Tayla,Williams,11,26,292,0,0,0.0,0,0,114,175,7,9,9,0,17
+WA,Melbourne Vixens,Hannah,Mundy,10,35,393,0,0,0.0,0,0,121,222,5,5,7,0,29
+WA,West Coast Fever,Alice,Teague-Neeld,9,29,418,0,0,0.0,0,0,115,287,4,4,5,0,19
+WA,NSW Swifts,Gina,Crampton,8,12,107,0,0,0.0,0,0,36,57,0,0,0,0,2
+WA,GIANTS Netball,Skye,Thompson,6,13,145,17,20,85.0,15,2,24,38,1,0,1,0,4
+WA,NSW Swifts,Paige,Hadley,4,7,70,0,0,0.0,0,0,11,21,0,1,0,0,3
+C,GIANTS Netball,Casey,Adamson,12,31,458,0,0,0.0,0,0,95,220,2,19,3,0,78
+C,West Coast Fever,Jordan,Cransberg,11,44,615,0,0,0.0,0,0,164,373,5,5,5,0,38
+C,Tarntanya Karntu,Kate,Heffernan,11,50,741,0,0,0.0,0,0,183,249,12,30,22,0,97
+C,Melbourne Vixens,Kate,Moloney,12,48,760,0,0,0.0,0,0,168,297,7,10,15,0,93
+C,Melbourne Mavericks,Jamie-Lee,Price,11,52,695,0,0,0.0,0,0,219,406,7,21,12,0,113
+C,NSW Swifts,Maddy,Proud,11,44,609,0,0,0.0,0,0,156,258,7,10,10,0,83
+C,Sunshine Coast Lightning,Liz,Watson,11,50,674,0,0,0.0,0,0,182,290,3,14,8,0,91
+C,West Coast Fever,Zoe,Cransberg,9,32,406,0,0,0.0,0,0,127,231,7,10,8,0,39
+C,Queensland Firebirds,Macy,Gardner,8,27,364,0,0,0.0,0,0,67,135,6,20,12,0,36
+C,Queensland Firebirds,Maddy,Gordon,7,26,377,0,0,0.0,0,0,114,202,0,7,1,0,34
+C,Queensland Firebirds,Jessie,Laga'aia,4,7,105,0,0,0.0,0,0,25,37,1,0,1,0,11
+WD,West Coast Fever,Jess,Anstiss,11,37,601,0,0,0.0,0,0,3,16,2,9,3,0,80
+WD,Sunshine Coast Lightning,Ava,Black,12,19,193,0,0,0.0,0,0,0,1,3,7,5,0,29
+WD,Tarntanya Karntu,Sophie,Casey,12,27,270,0,0,0.0,0,0,7,20,2,15,6,0,30
+WD,Sunshine Coast Lightning,Mahalia,Cassidy,11,44,613,0,0,0.0,0,0,77,97,7,13,10,0,75
+WD,Melbourne Vixens,Kate,Eddy,11,48,618,0,0,0.0,0,0,0,0,8,18,17,5,105
+WD,NSW Swifts,Sharni,Lambden,11,48,631,0,0,0.0,0,0,4,8,12,34,18,0,134
+WD,Melbourne Mavericks,Amy,Parmenter,11,52,693,0,0,0.0,0,0,3,4,18,55,35,0,152
+WD,GIANTS Netball,Amy,Sligar,11,50,752,0,0,0.0,0,0,32,57,13,22,18,0,101
+WD,Tarntanya Karntu,Latanya,Wilson,11,48,648,0,0,0.0,0,0,2,6,32,61,46,10,124
+WD,Queensland Firebirds,Imogen,Allison,10,41,584,0,0,0.0,0,0,14,30,8,21,13,0,49
+WD,GIANTS Netball,Dakota,Thomas,7,5,37,0,0,0.0,0,0,0,0,0,1,0,0,10
+WD,West Coast Fever,Ruth,Aryang,6,16,201,0,0,0.0,0,0,0,1,4,4,8,2,45
+WD,Queensland Firebirds,Sasha,Flegler,2,1,5,0,0,0.0,0,0,0,0,0,0,0,0,1
+WD,Melbourne Vixens,Ally,O'Connor,1,1,14,0,0,0.0,0,0,0,0,0,0,0,0,2
+WD,Sunshine Coast Lightning,Natalie,Sligar,1,1,4,0,0,0.0,0,0,1,1,0,0,0,0,1
+GD,Queensland Firebirds,Ruby,Bakewell-Doran,11,46,744,0,0,0.0,0,0,0,1,12,32,30,13,125
+GD,Melbourne Mavericks,Kim,Brown,11,50,695,0,0,0.0,0,0,0,0,13,41,38,17,170
+GD,Sunshine Coast Lightning,Karin,Burger,12,50,650,0,0,0.0,0,0,2,2,22,37,31,5,116
+GD,Tarntanya Karntu,Matilda,Garrett,11,36,524,0,0,0.0,0,0,4,7,4,31,20,7,120
+GD,Queensland Firebirds,Isabelle,Shearer,12,20,238,0,0,0.0,0,0,0,0,5,14,10,2,64
+GD,NSW Swifts,Maddy,Turner,12,43,542,0,0,0.0,0,0,3,5,8,21,21,7,105
+GD,Melbourne Vixens,Jo,Weston,11,48,689,0,0,0.0,0,0,3,8,10,44,40,20,191
+GD,West Coast Fever,Fran,Williams,12,50,744,0,0,0.0,0,0,2,4,13,46,39,15,120
+GD,GIANTS Netball,Jodi-Ann,Ward,10,41,536,0,0,0.0,0,0,0,0,7,30,19,7,108
+GD,West Coast Fever,Verity,Simmons,4,1,10,0,0,0.0,0,0,1,3,0,0,0,0,0
+GK,Sunshine Coast Lightning,Courtney,Bruce,12,50,716,0,0,0.0,0,0,6,7,19,65,47,16,217
+GK,West Coast Fever,Kadie-Ann,Dehaney,12,46,715,0,0,0.0,0,0,0,0,15,40,44,16,176
+GK,Sunshine Coast Lightning,Ash,Ervin,12,18,235,0,0,0.0,0,0,0,0,4,22,18,9,47
+GK,Melbourne Mavericks,Jessie,Grenvold,12,39,508,0,0,0.0,0,0,0,0,30,43,50,13,167
+GK,GIANTS Netball,Erin,O'Brien,12,47,674,0,0,0.0,0,0,0,0,8,38,41,17,159
+GK,NSW Swifts,Teigan,O'Shannassy,12,28,405,0,0,0.0,0,0,0,0,4,16,14,8,74
+GK,Tarntanya Karntu,Shamera,Sterling-Humphrey,12,45,721,0,0,0.0,0,0,0,0,27,76,66,25,128
+GK,Melbourne Vixens,Rudi,Ellis,10,29,403,0,0,0.0,0,0,0,0,5,21,23,10,128
+GK,Queensland Firebirds,Kelly,Jackson,12,42,618,0,0,0.0,0,0,0,0,29,44,55,11,195
+GK,Melbourne Vixens,Emily,Mannix,10,23,227,0,0,0.0,0,0,0,0,10,14,22,10,43
+GK,Melbourne Mavericks,Charlotte,Sexton,9,10,106,0,0,0.0,0,0,0,0,3,9,7,1,22
+GK,NSW Swifts,Sarah,Klau,8,34,500,0,0,0.0,0,0,0,0,8,32,21,4,139
+GK,West Coast Fever,Caitlyn,Brown,7,4,23,0,0,0.0,0,0,0,0,2,2,4,1,2
+GK,GIANTS Netball,Jane,Watson,4,14,188,0,0,0.0,0,0,0,0,3,21,12,5,31
+GK,Melbourne Mavericks,Tara,Hinchliffe,3,13,157,0,0,0.0,0,0,0,0,4,7,14,4,33
+GK,NSW Swifts,Katrina,Rore,3,10,136,0,0,0.0,0,0,0,0,4,3,7,3,28
+GK,Melbourne Vixens,Maggie,Caris,2,2,22,0,0,0.0,0,0,0,0,0,3,0,0,10
+GK,Melbourne Vixens,Mia,Lavis,2,1,4,0,0,0.0,0,0,0,0,0,0,0,0,0
+GK,GIANTS Netball,Matilda,McDonell,2,4,44,0,0,0.0,0,0,0,0,1,2,2,1,10
+GK,GIANTS Netball,Monika,'Otai,1,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0
+GK,Queensland Firebirds,Lily,Gribble,1,1,6,0,0,0.0,0,0,0,0,0,0,0,0,1
+GK,Melbourne Vixens,Ruby,Pekin-Schlicht,1,3,24,0,0,0.0,0,0,0,0,1,0,1,0,9
